@@ -1,0 +1,16 @@
+C:\Users\Aluno\source\repos\ExercicioWindowsForms\ExercicioWindowsForms\obj\Debug\net8.0-windows\ExercicioWindowsForms.Form1.resources
+C:\Users\Aluno\source\repos\ExercicioWindowsForms\ExercicioWindowsForms\obj\Debug\net8.0-windows\ExercicioWindowsForms.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\ExercicioWindowsForms\ExercicioWindowsForms\obj\Debug\net8.0-windows\ExercicioWindowsForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\ExercicioWindowsForms\ExercicioWindowsForms\obj\Debug\net8.0-windows\ExercicioWindowsForms.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\ExercicioWindowsForms\ExercicioWindowsForms\obj\Debug\net8.0-windows\ExercicioWindowsForms.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\ExercicioWindowsForms\ExercicioWindowsForms\obj\Debug\net8.0-windows\ExercicioWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\ExercicioWindowsForms\ExercicioWindowsForms\bin\Debug\net8.0-windows\ExercicioWindowsForms.exe
+C:\Users\Aluno\source\repos\ExercicioWindowsForms\ExercicioWindowsForms\bin\Debug\net8.0-windows\ExercicioWindowsForms.deps.json
+C:\Users\Aluno\source\repos\ExercicioWindowsForms\ExercicioWindowsForms\bin\Debug\net8.0-windows\ExercicioWindowsForms.runtimeconfig.json
+C:\Users\Aluno\source\repos\ExercicioWindowsForms\ExercicioWindowsForms\bin\Debug\net8.0-windows\ExercicioWindowsForms.dll
+C:\Users\Aluno\source\repos\ExercicioWindowsForms\ExercicioWindowsForms\bin\Debug\net8.0-windows\ExercicioWindowsForms.pdb
+C:\Users\Aluno\source\repos\ExercicioWindowsForms\ExercicioWindowsForms\obj\Debug\net8.0-windows\ExercicioWindowsForms.dll
+C:\Users\Aluno\source\repos\ExercicioWindowsForms\ExercicioWindowsForms\obj\Debug\net8.0-windows\refint\ExercicioWindowsForms.dll
+C:\Users\Aluno\source\repos\ExercicioWindowsForms\ExercicioWindowsForms\obj\Debug\net8.0-windows\ExercicioWindowsForms.pdb
+C:\Users\Aluno\source\repos\ExercicioWindowsForms\ExercicioWindowsForms\obj\Debug\net8.0-windows\ExercicioWindowsForms.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\ExercicioWindowsForms\ExercicioWindowsForms\obj\Debug\net8.0-windows\ref\ExercicioWindowsForms.dll
