@@ -16,5 +16,13 @@ namespace ExercicioWindowsForms
         {
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Exercicio2 exercicio2 = new Exercicio2 ();
+            exercicio2.Show();
+                
+
+        }
     }
 }
